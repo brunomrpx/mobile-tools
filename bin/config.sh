@@ -13,3 +13,5 @@ APK_PATH=./android-release-unsigned.apk
 APK_DEST_PATH="./apks/$APP_NAME-$APP_VERSION.apk"
 APK_ALIAS=hello_app
 
+ZIPALIGN_PATH=~/android-sdk-macosx/build-tools/23.0.3/zipalign
+
